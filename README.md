@@ -25,6 +25,10 @@
 
 * Para realizar depósito e saque, utilize a uri para digitar os valores de ambos.
 
+* Visualize toda documentação dos endpoints no link: http://localhost:8080/swagger-ui.html
+
+* Utilize http://localhost:8080/get-wallet na uri para visualizar sua conta, já existe uma criada por padrão.
+
 <hr>
 
 ## EndPoints da API:
