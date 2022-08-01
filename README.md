@@ -1,7 +1,5 @@
-# Meu projeto de estudo explorando um pouco o Spring Boot para fazer api Rest
+# Projeto desenvolvido para Conpay - Api Rest CryptoExchange
 
-> Esse projeto não é final, e pode ser atualizado no futuro,
- por exemplo: só é possível criar apenas uma carteira digital...
 
 
 ## O que essa API faz?
@@ -25,10 +23,10 @@
 
 <hr>
 
-## EndPoints da API:
-<img src ="https://raw.githubusercontent.com/Ma1c0n/my-exchange-bitcoin-api/main/screenshots/endpoints.png" widt="25%">
+* Para realizar depósito e saque, utilize a uri para digitar os valores de ambos.
 
 <hr>
 
-## Estrutura do Projeto
-<img src ="https://raw.githubusercontent.com/Ma1c0n/my-exchange-bitcoin-api/main/screenshots/structure.png" widt="25%">
+## EndPoints da API:
+<img src ="https://user-images.githubusercontent.com/87883226/182061780-b57cfcaa-5e69-47e6-ab7c-8f459ecaca6e.png" widt="25%">
+
