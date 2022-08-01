@@ -9,8 +9,8 @@
 * Vende Bitcoin
 * Criar uma carteira
 * Apaga Carteira
-* Monstra saldo de dinheiro
-* Monstra saldo de bitcoin
+* Mostra saldo de dinheiro
+* Mostra saldo de bitcoin
 <hr>
 
 ## O que esse Projeto usa?
